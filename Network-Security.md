@@ -3,11 +3,11 @@
 ## Contens
 
 - [ Thiết lập và cấu hình hệ thống bảo mật mạng ](#Thiết-lập-và-cấu-hình-hệ-thống-bảo-mật-mạng)
-- [ Giám sát và phân tích mạng ](#-Giám-sát-và-phân-tích-mạng:)
-- [ Kiểm tra và đánh giá lỗ hổng bảo mật ](#-Kiểm-tra-và-đánh-giá-lỗ-hổng-bảo-mật-:)
-- [ Xử lý sự cố bảo mật ](#-Xử-lý-sự-cố-bảo-mật-:)
-- [ Thiết kế và triển khai giải pháp bảo mật ](#-Thiết-kế-và-triển-khai-giải-pháp-bảo-mật-:)
-- [ Hỗ trợ và tư vấn ](#-Hỗ-trợ-và-tư-vấn-:)
+- [ Giám sát và phân tích mạng ](#Giám-sát-và-phân-tích-mạng)
+- [ Kiểm tra và đánh giá lỗ hổng bảo mật ](#Kiểm-tra-và-đánh-giá-lỗ-hổng-bảo-mật)
+- [ Xử lý sự cố bảo mật ](#Xử-lý-sự-cố-bảo-mật)
+- [ Thiết kế và triển khai giải pháp bảo mật ](#Thiết-kế-và-triển-khai-giải-pháp-bảo-mật)
+- [ Hỗ trợ và tư vấn ](#Hỗ-trợ-và-tư-vấn)
 - [Tools](Tools.md)
 
 # Thiết lập và cấu hình hệ thống bảo mật mạng
