@@ -2,7 +2,7 @@
 
 ## Contens
 
-- [ Thiết lập và cấu hình hệ thống bảo mật mạng ](#-Thiết-lập-và-cấu-hình-hệ-thống-bảo-mật-mạng-:)
+- [ Thiết lập và cấu hình hệ thống bảo mật mạng ](#Thiết-lập-và-cấu-hình-hệ-thống-bảo-mật-mạng)
 - [ Giám sát và phân tích mạng ](#-Giám-sát-và-phân-tích-mạng:)
 - [ Kiểm tra và đánh giá lỗ hổng bảo mật ](#-Kiểm-tra-và-đánh-giá-lỗ-hổng-bảo-mật-:)
 - [ Xử lý sự cố bảo mật ](#-Xử-lý-sự-cố-bảo-mật-:)
@@ -10,7 +10,7 @@
 - [ Hỗ trợ và tư vấn ](#-Hỗ-trợ-và-tư-vấn-:)
 - [Tools](Tools.md)
 
-# Thiết lập và cấu hình hệ thống bảo mật mạng: 
+# Thiết lập và cấu hình hệ thống bảo mật mạng
    -Là quá trình tạo ra và cấu hình các thành phần bảo mật mạng để đảm bảo an toàn và bảo vệ hệ thống mạng khỏi các mối đe dọa và cuộc tấn công từ bên ngoài. 
    
    -Quá trình "Thiết lập và cấu hình hệ thống bảo mật mạng" nhằm tạo ra một môi trường mạng an toàn, giảm thiểu rủi ro và đảm bảo tính bảo mật cho hệ thống và dữ liệu trong tổ chức.
