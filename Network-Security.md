@@ -90,7 +90,7 @@
 		
 `Kiểm tra và xác nhận`: Sau khi tích hợp, thực hiện kiểm tra và xác nhận hiệu quả của hệ thống bảo mật toàn diện. Đảm bảo rằng các giải pháp an ninh hoạt động chính xác, tuân thủ các chính sách bảo mật và có khả năng phát hiện và đối phó với các mối đe dọa.
 
-# Giám sát và phân tích mạng:
+# Giám sát và phân tích mạng
    -Quá trình giám sát và phân tích mạng giúp bạn giám sát sự an toàn và hiệu suất của mạng, phát hiện sớm các sự cố bảo mật và ứng phó kịp thời để bảo vệ hệ thống mạng khỏi các mối đe dọa.
 		
  ##  1.Theo dõi hoạt động mạng:
@@ -140,7 +140,7 @@
 		
 `Quét lỗ hổng`: Sử dụng công cụ quét lỗ hổng như Nessus, OpenVAS, Nmap để phát hiện các lỗ hổng trong hệ thống mạng và ứng dụng. Công cụ này giúp bạn tìm ra các điểm yếu tiềm năng trong mạng và xác định các vùng yếu cần được khắc phục.
 
-# Kiểm tra và đánh giá lỗ hổng bảo mật:
+# Kiểm tra và đánh giá lỗ hổng bảo mật
 
 ##   1.Xác định phạm vi kiểm tra: 
    
@@ -224,7 +224,7 @@
 
 ##   7.Kiểm tra lại.
 
-# Xử lý sự cố bảo mật:
+# Xử lý sự cố bảo mật
 
 ##   1.Xác nhận sự cố:
    
@@ -272,7 +272,7 @@
 
 ##   6.Giám sát và kiểm tra lại.
 
-# Thiết kế và triển khai giải pháp bảo mật:
+# Thiết kế và triển khai giải pháp bảo mật
 
  ##  1.Đánh giá yêu cầu bảo mật:	
    
@@ -314,7 +314,7 @@
 		
 ##   6.Quản lý và duy trì.
 
-# Hỗ trợ và tư vấn: 
+# Hỗ trợ và tư vấn
 
 ##   1.Cung cấp hỗ trợ kỹ thuật:
    
