@@ -11,14 +11,14 @@
 - [Tools](Tools.md)
 
 # Thiết lập và cấu hình hệ thống bảo mật mạng
-   -Là quá trình tạo ra và cấu hình các thành phần bảo mật mạng để đảm bảo an toàn và bảo vệ hệ thống mạng khỏi các mối đe dọa và cuộc tấn công từ bên ngoài. 
+   - Là quá trình tạo ra và cấu hình các thành phần bảo mật mạng để đảm bảo an toàn và bảo vệ hệ thống mạng khỏi các mối đe dọa và cuộc tấn công từ bên ngoài. 
    
-   -Quá trình "Thiết lập và cấu hình hệ thống bảo mật mạng" nhằm tạo ra một môi trường mạng an toàn, giảm thiểu rủi ro và đảm bảo tính bảo mật cho hệ thống và dữ liệu trong tổ chức.
+   - Quá trình "Thiết lập và cấu hình hệ thống bảo mật mạng" nhằm tạo ra một môi trường mạng an toàn, giảm thiểu rủi ro và đảm bảo tính bảo mật cho hệ thống và dữ liệu trong tổ chức.
     
         
 ## 1.Thiết lập tường lửa (firewall): 
         
-   -Cấu hình tường lửa để xác định các quy tắc truy cập mạng và kiểm soát lưu lượng mạng theo các chính sách bảo mật của tổ chức.
+   - Cấu hình tường lửa để xác định các quy tắc truy cập mạng và kiểm soát lưu lượng mạng theo các chính sách bảo mật của tổ chức.
    
 `Lựa chọn tường lửa`: Tìm hiểu và chọn một giải pháp tường lửa phù hợp với yêu cầu và ngân sách của tổ chức. Có nhiều lựa chọn tường lửa từ các nhà cung cấp như Cisco, Palo Alto, Fortinet, Juniper, và nhiều hơn nữa.
 
@@ -33,7 +33,7 @@
         
 ## 2.Cấu hình hệ thống phát hiện xâm nhập (IDS/IPS):
 
-   -Thiết lập và cấu hình các thiết bị IDS/IPS để giám sát và phát hiện các hoạt động đáng ngờ và cuộc tấn công trong mạng.
+   - Thiết lập và cấu hình các thiết bị IDS/IPS để giám sát và phát hiện các hoạt động đáng ngờ và cuộc tấn công trong mạng.
    
 `Lựa chọn thiết bị IDS/IPS`: Tìm hiểu và chọn một giải pháp IDS/IPS phù hợp với yêu cầu và ngân sách của tổ chức. Có nhiều lựa chọn từ các nhà cung cấp như Cisco, Snort, Suricata, Palo Alto, và nhiều hơn nữa.
 		
@@ -50,7 +50,7 @@
 
 ## 3.Thiết lập máy chủ proxy:
 
-   -Cấu hình máy chủ proxy để kiểm soát và giám sát việc truy cập vào mạng Internet từ bên trong mạng.
+   - Cấu hình máy chủ proxy để kiểm soát và giám sát việc truy cập vào mạng Internet từ bên trong mạng.
    
 `Lựa chọn máy chủ proxy`: Tìm hiểu và chọn một giải pháp máy chủ proxy phù hợp với yêu cầu và ngân sách của tổ chức. Có nhiều lựa chọn phổ biến như Squid, Nginx, Apache HTTP Server, và nhiều hơn nữa.
 		
@@ -65,7 +65,7 @@
         
 ## 4.Cấu hình các thiết bị bảo mật khác: 
 
-   -Bao gồm việc thiết lập và cấu hình các thiết bị bảo mật khác như hệ thống phòng chống xâm nhập, máy chủ VPN, máy chủ mã hóa, và các giải pháp bảo mật khác tùy thuộc vào yêu cầu của tổ chức.
+   - Bao gồm việc thiết lập và cấu hình các thiết bị bảo mật khác như hệ thống phòng chống xâm nhập, máy chủ VPN, máy chủ mã hóa, và các giải pháp bảo mật khác tùy thuộc vào yêu cầu của tổ chức.
     
 `Lựa chọn thiết bị bảo mật`: Tìm hiểu và chọn các thiết bị bảo mật phù hợp với yêu cầu và ngân sách của tổ chức. Có nhiều nhà cung cấp và sản phẩm khác nhau trên thị trường, vì vậy cần nghiên cứu và lựa chọn thiết bị phù hợp.
 		
@@ -78,7 +78,7 @@
 
 ##   5.Tích hợp giải pháp an ninh vào mạng: 
 		
-   -Đảm bảo rằng các giải pháp an ninh được tích hợp chặt chẽ vào mạng, bao gồm việc kết hợp các thiết bị và công nghệ bảo mật để tạo thành một hệ thống bảo mật toàn diện.
+   - Đảm bảo rằng các giải pháp an ninh được tích hợp chặt chẽ vào mạng, bao gồm việc kết hợp các thiết bị và công nghệ bảo mật để tạo thành một hệ thống bảo mật toàn diện.
    
 `Xác định yêu cầu an ninh`: Đầu tiên, xác định các yêu cầu an ninh của tổ chức dựa trên các mối đe dọa tiềm năng và giá trị của thông tin. Điều này bao gồm xác định các mục tiêu an ninh và các chính sách bảo mật áp dụng cho mạng.
 		
@@ -91,7 +91,7 @@
 `Kiểm tra và xác nhận`: Sau khi tích hợp, thực hiện kiểm tra và xác nhận hiệu quả của hệ thống bảo mật toàn diện. Đảm bảo rằng các giải pháp an ninh hoạt động chính xác, tuân thủ các chính sách bảo mật và có khả năng phát hiện và đối phó với các mối đe dọa.
 
 # Giám sát và phân tích mạng
-   -Quá trình giám sát và phân tích mạng giúp bạn giám sát sự an toàn và hiệu suất của mạng, phát hiện sớm các sự cố bảo mật và ứng phó kịp thời để bảo vệ hệ thống mạng khỏi các mối đe dọa.
+   - Quá trình giám sát và phân tích mạng giúp bạn giám sát sự an toàn và hiệu suất của mạng, phát hiện sớm các sự cố bảo mật và ứng phó kịp thời để bảo vệ hệ thống mạng khỏi các mối đe dọa.
 		
  ##  1.Theo dõi hoạt động mạng:
    
