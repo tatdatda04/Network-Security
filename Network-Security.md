@@ -9,7 +9,7 @@
         1.Thiết lập tường lửa (firewall): 
         
         -Cấu hình tường lửa để xác định các quy tắc truy cập mạng và kiểm soát lưu lượng mạng theo các chính sách bảo mật của tổ chức.
-                *Lựa chọn tường lửa: Tìm hiểu và chọn một giải pháp tường lửa phù hợp với yêu cầu và ngân sách của tổ chức. 
+                	*Lựa chọn tường lửa: Tìm hiểu và chọn một giải pháp tường lửa phù hợp với yêu cầu và ngân sách của tổ chức. 
 		Có nhiều lựa chọn tường lửa từ các nhà cung cấp như Cisco, Palo Alto, Fortinet, Juniper, và nhiều hơn nữa.
 			*Xác định các quy tắc truy cập: Dựa trên yêu cầu bảo mật của tổ chức, xác định các quy tắc truy cập mạng. 
    		Điều này bao gồm quyết định nào được phép và nào bị từ chối truy cập vào mạng. Các quy tắc có thể dựa trên địa chỉ IP, cổng, giao thức và các yếu tố 			khác.
@@ -24,7 +24,7 @@
         2.Cấu hình hệ thống phát hiện xâm nhập (IDS/IPS):
 
 		-Thiết lập và cấu hình các thiết bị IDS/IPS để giám sát và phát hiện các hoạt động đáng ngờ và cuộc tấn công trong mạng.
-                *Lựa chọn thiết bị IDS/IPS: Tìm hiểu và chọn một giải pháp IDS/IPS phù hợp với yêu cầu và ngân sách của tổ chức. 
+                	*Lựa chọn thiết bị IDS/IPS: Tìm hiểu và chọn một giải pháp IDS/IPS phù hợp với yêu cầu và ngân sách của tổ chức. 
 		Có nhiều lựa chọn từ các nhà cung cấp như Cisco, Snort, Suricata, Palo Alto, và nhiều hơn nữa.
 			*Thiết lập và triển khai thiết bị IDS/IPS: Cài đặt và triển khai thiết bị IDS/IPS trong mạng của bạn. 
    		Điều này có thể bao gồm cài đặt phần cứng và phần mềm cần thiết, đặt IP và cấu hình mạng cho thiết bị.
@@ -41,7 +41,7 @@
         3.Thiết lập máy chủ proxy:
 
         -Cấu hình máy chủ proxy để kiểm soát và giám sát việc truy cập vào mạng Internet từ bên trong mạng.
-                *Lựa chọn máy chủ proxy: Tìm hiểu và chọn một giải pháp máy chủ proxy phù hợp với yêu cầu và ngân sách của tổ chức. 
+                	*Lựa chọn máy chủ proxy: Tìm hiểu và chọn một giải pháp máy chủ proxy phù hợp với yêu cầu và ngân sách của tổ chức. 
 		Có nhiều lựa chọn phổ biến như Squid, Nginx, Apache HTTP Server, và nhiều hơn nữa.
 			*Cài đặt và triển khai máy chủ proxy: Cài đặt phần mềm máy chủ proxy trên máy chủ hoặc hệ thống phần cứng mà bạn đã chọn. 
    		Điều này bao gồm cài đặt phần mềm proxy, đặt cấu hình mạng và cổng kết nối cho máy chủ proxy.
@@ -55,7 +55,7 @@
         4.Cấu hình các thiết bị bảo mật khác: 
 
 		-Bao gồm việc thiết lập và cấu hình các thiết bị bảo mật khác như hệ thống phòng chống xâm nhập, máy chủ VPN, máy chủ mã hóa, và các giải pháp bảo mật khác tùy thuộc vào yêu cầu của tổ chức.
-                *Lựa chọn thiết bị bảo mật: Tìm hiểu và chọn các thiết bị bảo mật phù hợp với yêu cầu và ngân sách của tổ chức. 
+                	*Lựa chọn thiết bị bảo mật: Tìm hiểu và chọn các thiết bị bảo mật phù hợp với yêu cầu và ngân sách của tổ chức. 
 		Có nhiều nhà cung cấp và sản phẩm khác nhau trên thị trường, vì vậy cần nghiên cứu và lựa chọn thiết bị phù hợp.
 			*Cài đặt và triển khai thiết bị bảo mật: Cài đặt phần mềm và/hoặc phần cứng của thiết bị bảo mật. 
    		Điều này có thể bao gồm việc cài đặt và cấu hình các ứng dụng, hệ điều hành, và các cấu hình mạng liên quan.
