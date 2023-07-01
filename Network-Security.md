@@ -6,7 +6,7 @@
     giảm thiểu rủi ro và đảm bảo tính bảo mật cho hệ thống và dữ liệu trong tổ chức.
     
         
-        1.Thiết lập tường lửa (firewall): 
+#1.Thiết lập tường lửa (firewall): 
         
         -Cấu hình tường lửa để xác định các quy tắc truy cập mạng và kiểm soát lưu lượng mạng theo các chính sách bảo mật của tổ chức.
                 	*Lựa chọn tường lửa: Tìm hiểu và chọn một giải pháp tường lửa phù hợp với yêu cầu và ngân sách của tổ chức. Có nhiều lựa chọn tường lửa từ các nhà cung cấp như Cisco, Palo Alto, Fortinet, Juniper, và nhiều hơn nữa.
